@@ -4,7 +4,7 @@
 - POST
 * http://localhost:3000/alumnos 
 
-Permite crear un alumno con los siguientes atributos:
+* Permite crear un alumno con los siguientes atributos:
 * "firstName": "Paula"
 * "lastName": "Gómez"
 * "phoneNumber": 3123121
