@@ -5,12 +5,7 @@
 * http://localhost:3000/alumnos 
 
 * Permite crear un alumno con los siguientes atributos:
-* "firstName": "Paula"
-* "lastName": "Gómez"
-* "phoneNumber": 3123121
-* "email": "pau@gmail.com"
-* "course": "matematicas"
-* "grade": 4
+ * "firstName": "Paula", "lastName": "Gómez", "phoneNumber": 3123121, "email": "pau@gmail.com", "course": "matematicas", "grade": 4
 
 - GET
 * http://localhost:3000/alumnos
